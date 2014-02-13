@@ -1,5 +1,5 @@
 {
-    "name": "bjyoungblood/bjy-cache-storage",
+    "name": "tlapi/bjy-cache-storage",
     "description": "Various storage adapters for Zend\\Cache",
     "type": "library",
     "keywords": [
